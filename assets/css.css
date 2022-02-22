@@ -1,0 +1,67 @@
+body {
+  font-family: sans-serif;
+}
+.Header {
+  width: 100%;
+  text-align: center;
+}
+.Header_img {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+}
+.Header img {
+  width: 100%;
+}
+
+.Form_title {
+  font-size: 22px;
+  background-color: #f7f7f7;
+  font-weight: 600;
+  color: #03a2e4;
+  padding: 8px;
+  margin-top: 20px;
+}
+
+.Info_student div {
+  line-height: 28px;
+  margin-top: 20px;
+}
+.Info_student div input {
+  outline: none;
+  padding: 4px;
+}
+
+.background_1 {
+  background-color: #f7f7f7;
+}
+.dau {
+  color: red;
+  /* font-size: 26px; */
+  margin: 8px;
+}
+
+.Number_question {
+  font-weight: 600;
+  color: #03a2e4;
+}
+.question {
+  margin: 20px 0;
+}
+
+.Submit {
+  text-align: center;
+}
+
+.Submit button {
+  padding: 10px;
+  background-color: #03a2e4;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid #03a2e4;
+  color: white;
+}
+
+.Form_Container.grid.wide {
+  padding: 40px 0;
+}
